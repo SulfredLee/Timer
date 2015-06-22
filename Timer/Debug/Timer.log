@@ -1,0 +1,16 @@
+﻿Build started 22/6/2015 22:09:02.
+     1>Project "D:\Work\WorkShop\Timer\Timer\Timer.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Timer.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Timer.cpp
+         Timer.cpp
+     1>d:\work\workshop\timer\timer\timer.cpp(38): warning C4244: 'initializing' : conversion from 'double' to 'WORD', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Work\WorkShop\Timer\Debug\Timer.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Work\WorkShop\Timer\Debug\Timer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Work\WorkShop\Timer\Debug\Timer.lib" /MACHINE:X86 Debug\Timer.res
+         Debug\stdafx.obj
+         Debug\Timer.obj
+         Timer.vcxproj -> D:\Work\WorkShop\Timer\Debug\Timer.exe
+     1>Done Building Project "D:\Work\WorkShop\Timer\Timer\Timer.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.41
